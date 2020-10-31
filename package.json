@@ -1,0 +1,16 @@
+{
+  "name": "bot2",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "kunkey",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "node-fetch": "^2.6.1",
+    "utf-8-validate": "^5.0.2"
+  }
+}
